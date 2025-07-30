@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/luisrincon23-sec-mcp-badge.png)](https://mseep.ai/app/luisrincon23-sec-mcp)
+
 # Financial MCPs - PhD-Level Research Tools for Claude Code CLI
 
 A comprehensive collection of advanced Model Context Protocol (MCP) servers that transform Claude Code CLI into an institutional-grade financial research platform.
